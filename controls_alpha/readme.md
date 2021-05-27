@@ -1,6 +1,6 @@
 # Path Tracking: Bicycle model of a car
 
-Contains nodes for path tracking using the Pure Pursuit Controller. Designed to work alongside car_demo package by OSRF.
+Contains nodes for path tracking using the Pure Pursuit Controller. Designed to work alongside car_demo package by OSRF. You can see the nodes (roscpp scripts) inside the package src/alpha and in the src folder.
 
 ## Lateral Control: Pure Pursuit
 
