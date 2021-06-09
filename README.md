@@ -1,7 +1,7 @@
 # AGV
 Codes from my work at Autonomous Ground Vehicle, IIT Kharagpur
 
-Some of the environments I have worke with:
+Some of the environments I have worked with:
 
 ## [car_demo](https://github.com/osrf/car_demo) on [Gazebo 11](http://gazebosim.org/)
 <p align="center">
