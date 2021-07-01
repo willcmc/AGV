@@ -3,7 +3,7 @@ Codes from my work at Autonomous Ground Vehicle, IIT Kharagpur
 
 Some of the environments I have worked with:
 
-## [car_demo](https://github.com/osrf/car_demo) on [Gazebo 11](http://gazebosim.org/)
+## [car_demo](https://github.com/osrf/car_demo) on [Gazebo 9](http://gazebosim.org/)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/52452181/121302096-ca929680-c916-11eb-9f7c-fc2c41b8ae3c.png" />
 </p>
