@@ -1,4 +1,4 @@
-# AGV
+# AGV-ACR.AI
 Codes from my work at Autonomous Ground Vehicle, IIT Kharagpur
 
 Some of the environments I have worked with:
